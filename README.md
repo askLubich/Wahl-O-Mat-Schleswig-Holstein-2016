@@ -1,4 +1,4 @@
-# Analysing the Wahl-O-Mat about the 2016 Schleswig-Holstein election
+# Analysing the Wahl-O-Mat about the 2017 Schleswig-Holstein election
 
 ### Results
 
